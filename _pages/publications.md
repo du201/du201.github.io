@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Peer-reviewed Conference Papers
 
-{% include base_path %}
+1. *RobotAR: An Augmented Reality Compatible Teleconsulting Robotics Toolkit for Augmented Makerspace Experiences*.<br>
+Ana Villanueva, Zhengzhe Zhu, Ziyi Liu, **Xin Du**, Joey Huang, Kylie Peppler, Karthik Ramani.<br>
+CHI 2021.<br>
+<a href="{{ site.url }}/{{ site.baseurl }}/{{ site.filesurl }}/publications/RobotAR.pdf"><i class="fas fa-file-pdf"></i></a>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Blog Posts
