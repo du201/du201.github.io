@@ -14,7 +14,7 @@ description              : &description "Xin Du's personal website"
 url                      : https://du201.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "du201/du201.github.io"
-teaser                   : "professional_square.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "casual_2.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xin Du"
-  avatar           : "professional_square.jpg"
+  avatar           : "casual_2.jpg"
   bio              : "Software Developer Majoring Computer Engineering at Purdue University"
   location         : "West Lafayette, Indiana"
   employer         :
