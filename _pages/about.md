@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am Xin (Wyatt) Du, an undergraduate majoring in Computer Engineering at Purdue University. 
 
-I am highly interested in building the next level of abstraction, in a creative and user-friendly way, on top of the current programming languages or interfaces exposed to programmers. Some examples would be designing new APIs, such as OpenGL, that abstract out low-level code and increase programmers’ productivity, or improving program synthesis techniques such that most of the code is written automatically through high-level specification. In addition to the abstractions on computer software side, abstractions on hardward side are also intriguing. I enjoy reading and learning about computer architecture, VLSI, and hardware description languages.
+I am passionate about software engineering. More specifically, I am highly interested in building the next level of abstraction, in a creative and user-friendly way, on top of the current programming languages or interfaces exposed to programmers. Some examples would be designing new APIs, such as the Fetch API for web resource fetching, that abstract out low-level code and increase programmers’ productivity. It can also be buiding frameworks, such as Express for Node.js, that speeds up the development of common features and makes projects more maintainable in the long run.
 
 Please feel free to check out my projects, publications, and blog posts shown on my personal website or contact/follow me through my social media accounts.
 
